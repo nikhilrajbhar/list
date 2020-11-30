@@ -1,0 +1,20 @@
+.main_div{
+    background-color: aqua;
+    margin: auto;
+    width: 20%;
+    border: 3px solid black;
+    padding: 10px;
+    
+}
+
+.center_div{
+    border-color: black;
+    mask-border-width: 20px;
+    align-content: center;
+    margin-bottom: 60%;
+}
+
+/* .Demo{
+    text-align: center;
+    margin:auto;
+} */
